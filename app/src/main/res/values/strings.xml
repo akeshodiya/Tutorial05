@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial 05</string>
+    <string-array name="countries">
+        <item>Pakistan</item>>
+        <item>Turkey</item>>
+        <item>Bangladesh</item>>
+        <item>Brunei</item>>
+        <item>India</item>>
+    </string-array>
+    >
+</resources>
